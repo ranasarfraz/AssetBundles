@@ -2,7 +2,7 @@
   "AssetBundles": [
     {
       "AssetBundleName": "environment",
-      "StaticAddress": "https://www.dropbox.com/s/c10ux1cm1mdwkmt/environment?raw=1" 
+      "StaticAddress": "https://hitfile.net//download/redirect/19AE86E0895A5DBC91332E776350C984p/xLP2KKP" 
     },
     {
       "AssetBundleName": "cars", 
