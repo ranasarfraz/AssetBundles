@@ -1,0 +1,12 @@
+{
+  "AssetBundles": [
+    {
+      "AssetBundleName": "environment",
+      "StaticAddress": "https://www.dropbox.com/s/c10ux1cm1mdwkmt/environment?raw=1" 
+    },
+    {
+      "AssetBundleName": "cars", 
+      "StaticAddress": "https://www.dropbox.com/s/c10ux1cm1mdwkmt/environment?raw=1" 
+    } 
+  ]
+}
